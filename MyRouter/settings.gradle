@@ -1,0 +1,1 @@
+include ':app', ':routerApi', ':moduleExtend', ':moduledemo1', ':moduledemo2'

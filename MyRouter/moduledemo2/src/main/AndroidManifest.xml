@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.module.demo2" >
+    <application>
+        <activity android:name=".Demo2Activity" />
+    </application>
+</manifest>
